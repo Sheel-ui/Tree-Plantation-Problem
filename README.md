@@ -64,7 +64,7 @@ Following figures depict visual representations illustrating the execution time 
   <img src="./Experimental%20Comparision/Problem2.PNG" width="500px">
 </p>
  <p align="center">
-  <img src="./Experimental%20Comparision/Problem2_task5a&5bPNG" width="500px">
+  <img src="./Experimental%20Comparision/Problem2_task5a&5b.PNG" width="500px">
 </p>
 
 
